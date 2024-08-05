@@ -6,3 +6,6 @@ This small project of mine is for my "portfolio" hosted on AWS. I used Docker an
 ## Demo
 
 ![image](https://github.com/user-attachments/assets/a418f77f-f334-44a9-b6e5-ef8ed85db5ff)
+
+![image](https://github.com/user-attachments/assets/b4d5522b-737d-4526-a54b-fe2229fce8c0)
+
